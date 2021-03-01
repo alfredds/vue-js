@@ -21,4 +21,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+/node_modules
+/.gitignore
+/package-log.json
+/README.md
 
