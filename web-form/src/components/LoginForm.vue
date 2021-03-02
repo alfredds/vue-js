@@ -1,5 +1,5 @@
 <template>
-  <!-- form login(create account).prevent mencegah form ketika button submit reload page -->
+  <!-- form login(login account) -->
   <form @submit.prevent="handleSubmit">
     <h2>Login Form</h2>
     <!-- email. . v-model untuk menunjuk data binding 2 arah:template & data -->
