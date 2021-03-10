@@ -1,5 +1,5 @@
-# live-chat
-this project using firebase auth and firestore service 
+# todo-list
+todo-list project use materialize css framework with firebase
 
 ## Project setup
 ```
