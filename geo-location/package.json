@@ -1,5 +1,5 @@
 {
-  "name": "todo-list",
+  "name": "geo-location",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "firebase": "^8.2.9",
+    "moment": "^2.29.1",
     "slugify": "^1.4.7",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"

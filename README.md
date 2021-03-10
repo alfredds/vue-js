@@ -1,5 +1,5 @@
-# todo-list
-todo-list project use materialize css framework with firebase
+# geo-location
+this project contains google maps API with function livechat using firebase
 
 ## Project setup
 ```
